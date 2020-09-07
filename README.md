@@ -19,6 +19,7 @@ I have found that the main factors that organizations take into consideration fo
 6. Age & Experience - How long the company has been working in a specific industry
 7. Loan amount
 8. Repayment Period - Term of the loan
+
 I shall take into account these factors stated above during my analysis.
 
 Code used: Python
