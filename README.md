@@ -15,7 +15,7 @@ I have found that the main factors that organizations take into consideration fo
 2. Collateral - Sometimes organizations require security to cover its risk
 3. Capital - The company's primary fund to work with
 4. Character - Company's history and reputation
-5. Conditions - The economic climate of an industry
+5. Conditions - The economic climate of an industry and purpose of loan
 6. Age & Experience - How long the company has been working in a specific industry
 7. Loan amount
 8. Repayment Period - Term of the loan
