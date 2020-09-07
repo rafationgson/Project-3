@@ -20,7 +20,7 @@ I have found that the main factors that organizations take into consideration fo
 7. Loan amount
 8. Repayment Period - Term of the loan
 
-I shall take into account these factors stated above during my analysis.
+I shall take these factors into account during my analysis.
 
 Code used: Python
 Libraries used: Numpy, Matplotlib, Seaborn, Pandas, Scikit Learn
