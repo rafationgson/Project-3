@@ -7,7 +7,7 @@ The U.S. SBA was founded in 1953 on the principle of promoting and assisting sma
 Source: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
 ## Project at a glance:
-The purpose of this project is to find correlations to find how likely a loan will be pain in full or more likely defaulted. After the analysis, I will train a machine learning algorithm to classify loans as more likely to be paid in full or as more likely to default. This can be help businesses in assessing clients when they are applying for a loan.
+The purpose of this project is to find correlations to find how likely a loan will be paid in full or more likely defaulted. After the analysis, I will train a machine learning algorithm to classify loans as more likely to be paid in full or as more likely to default. This can be help businesses in assessing clients when they are applying for a loan.
 
 Code used: Python
 Libraries used: Numpy, Matplotlib, Seaborn, Pandas, Scikit Learn
