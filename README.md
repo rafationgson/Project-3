@@ -9,6 +9,18 @@ Source: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or
 ## Project at a glance:
 The purpose of this project is to find correlations to find how likely a loan will be paid in full or more likely defaulted. After the analysis, I will train a machine learning algorithm to classify loans as more likely to be paid in full or as more likely to default. This can be help businesses in assessing clients when they are applying for a loan.
 
+## Research prior to conducting Analysis
+I have found that the main factors that organizations take into consideration for assessing applicants for a loan consist of the following:
+1. Capacity - Repayment or credit history
+2. Collateral - Sometimes organizations require security to cover its risk
+3. Capital - The company's primary fund to work with
+4. Character - Company's history and reputation
+5. Conditions - The economic climate of a industry
+6. Age & Experience - How long the company has been working in a specific industry
+7. Loan amount
+8. Repayment Period - Term of the loan
+I shall take into account these factors stated above during my analysis.
+
 Code used: Python
 Libraries used: Numpy, Matplotlib, Seaborn, Pandas, Scikit Learn
 
